@@ -1,4 +1,4 @@
-# inventory_project
+# Developers
 Name | ID | Role
 ------------ | ------------- | -------------
 Ladan Ghasemi | @ladan_gh |
