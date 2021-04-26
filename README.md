@@ -1,8 +1,7 @@
-<h1>inventory project</h1>
+## inventory project
 
-This project describes the warehouse management of a factory
 
-# Developers
+### Developers
 Name | ID
 ------------ | ------------- 
 *Ladan Ghasemi* | [@𝐥𝐚𝐝𝐚𝐧_𝐠𝐡](https://github.com/ladan-gh)
