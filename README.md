@@ -8,9 +8,3 @@ Name | ID
 *Asma Nezhadmohammadi* | [@𝐚𝐬𝐦𝐚_𝐦𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢](https://github.com/asma-mohammadi)
 
 
-[Senario](file:///C:/Users/HP/Desktop/ss.html)
-
-<dl>
-  <dt>Senario</dt>
-  <dd>enventory-project is made by : asma and ladan</dd>
-
