@@ -1,4 +1,5 @@
 ## inventory project
+This warehousing system is a community product warehouse system.This system works under the network and connects all the warehouses of a factory and the company's sales office.So that the sales office can check the inventory online at any time. All required reports can be accessed online by any unit that needs it.
 
 
 ### Developers
