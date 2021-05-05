@@ -3,8 +3,23 @@ This warehousing system is a community product warehouse system.This system work
 
 ### What parts does the system consist of?
 To design a product warehouse system, we divide the system into two parts or subsystems, which are:
-1. Factory warehouse subsystem
-1. Central Sales Office
+- Factory warehouse subsystem
+- Central Sales Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Developers
