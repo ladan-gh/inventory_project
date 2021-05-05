@@ -9,6 +9,15 @@ To design a product warehouse system, we divide the system into two parts or sub
 The general process of work is that the goods are produced and transferred from the production section to the warehouse hall and the amount of warehouse inventory is recorded in the warehouse system.The sales unit issues a sales license according to the marketable inventory.Therefore, customers refer to the sales unit and first register as the official representative of the company and after concluding a contract with the company, place an order.The customer's order is transferred by the sales unit to the factory warehouse and from the factory warehouse, the customer's requested goods are sent to the customer's address.
 
 ### System requirements
+- Regular reporting of physical inventory and marketable inventories
+- Report on sending return products
+- Temporary and final receipt registration
+- Introduction and registration of drivers
+- Registration of new goods and new warehouses
+- Customer order registration
+- Product remittance registration
+- Issuance of exit permit and loading permit
+- Determining the price of products, how to pay and issue invoices
 
 
 ### Analysis and design of the project
