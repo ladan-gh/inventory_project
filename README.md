@@ -32,8 +32,6 @@ The general process of work is that the goods are produced and transferred from 
 
 
 ### LADAN
-assdfghj,cdijsjbfj,waui3uf......
-
 
 
 
