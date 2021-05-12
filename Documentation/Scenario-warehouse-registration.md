@@ -3,5 +3,6 @@
 - Warehouse manager(User)
 
 ### Procedures
-Warehouse manager, the new warehouse that is to be used as the warehouse of goods from now on, mentioning its location and specifying the name for it
+Warehouse Manager (or Program Manager), the new warehouse to be installed from now on
+The title of the goods warehouse should be used by mentioning its location and specifying the name for it.
 Registers in the system.
