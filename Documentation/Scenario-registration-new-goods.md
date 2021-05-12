@@ -1,5 +1,3 @@
-
-
 ### Users and those involved in this scenario:
 - Warehouse(Colleague)
 - Warehouse manager(User)
