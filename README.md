@@ -14,6 +14,10 @@ The general process of work is that the goods are produced and transferred from 
 - Platform:
 
 
+### Needs assessment and project scenario
+
+
+
 
 
 ### System requirements
@@ -29,6 +33,8 @@ Non-functional requirements:
 ### Project documentation
 
 
+### Needs assessment and project scenario
+
 
 
 ### Analysis and design of the project
@@ -40,10 +46,14 @@ Non-functional requirements:
 - [Requirements]()
 
 
+
+### Project Management
+
+
 ### Developers
+Project code : G21
+
 Name | ID
 ------------ | ------------- 
 *Ladan Ghasemi* | [@𝐥𝐚𝐝𝐚𝐧_𝐠𝐡](https://github.com/ladan-gh)
 *Asma Nezhadmohammadi* | [@𝐚𝐬𝐦𝐚_𝐦𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢](https://github.com/asma-mohammadi)
-
-
