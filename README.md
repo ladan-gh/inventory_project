@@ -8,7 +8,22 @@ To design a product warehouse system, we divide the system into two parts or sub
 
 The general process of work is that the goods are produced and transferred from the production section to the warehouse hall and the amount of warehouse inventory is recorded in the warehouse system.The sales unit issues a sales license according to the marketable inventory.Therefore, customers refer to the sales unit and first register as the official representative of the company and after concluding a contract with the company, place an order.The customer's order is transferred by the sales unit to the factory warehouse and from the factory warehouse, the customer's requested goods are sent to the customer's address.
 
+### Technical Specifications
+- Programming language:Java
+- Database:
+- Platform:
+
+
+
+
 ### System requirements
+
+ Functional requirements:
+- Ability to register customer orders
+- Ability to issue an exit form
+- Ability to register a contract with a customer
+
+
 - Regular reporting of physical inventory and marketable inventories
 - Report on sending return products
 - Temporary and final receipt registration
@@ -27,17 +42,6 @@ The general process of work is that the goods are produced and transferred from 
 - [Class diagram]()
 - [Database diagram]()
 - [Requirements]()
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Developers
