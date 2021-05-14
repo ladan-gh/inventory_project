@@ -51,7 +51,7 @@ Non-functional requirements:
 
 
 ### Developers
-Project code : G21
+**Project code : G21
 
 Name | ID
 ------------ | ------------- 
