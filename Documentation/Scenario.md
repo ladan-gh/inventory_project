@@ -48,9 +48,29 @@ The invoice is prepared by the accounting department of the sales unit, so that 
 ### Procedures
 After loading, the driver goes back to the warehouse manager and hands over the issuance of the permit completed by the loading manager to the warehouse manager and receives the exit permit along with a package containing the exact address of the customer and holding it in his hand. The exit permit is issued at the factory.
 
+----------------------------
 
+## Scenario 5(Registration New Goods)
 
+### Users and those involved in this scenario:
+- Warehouse(Colleague)
+- Warehouse manager(User)
 
+### Procedures
+To register a new product in the warehouse, the warehouse manager registers the new product that is produced for the first time in the factory and its name and specifications have not been registered in the warehouse system before, mentioning all the specifications in the product warehouse system.
+
+----------------------------
+
+## Scenario 6(Warehouse Registration)
+
+### Users and those involved in this scenario:
+- Warehouse(Colleague)
+- Warehouse manager(User)
+
+### Procedures
+Warehouse Manager (or Program Manager), the new warehouse to be installed from now on
+The title of the goods warehouse should be used by mentioning its location and specifying the name for it.
+Registers in the system.
 
 
 
