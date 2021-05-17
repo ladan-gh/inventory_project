@@ -13,14 +13,6 @@ The general process of work is that the goods are produced and transferred from 
 - Database : SQL(postgres)
 - Platform : Windows
 
-
-### Needs assessment and project scenario
-
-- [Project scenarios]()
-- [Project needs assessment]()
-
-
-
 ### System requirements
 
 Functional requirements:
@@ -34,7 +26,11 @@ Non-functional requirements:
 ### Project documentation
 
 
+
 ### Needs assessment and project scenario
+
+- [Project scenarios]()
+- [Project needs assessment]()
 
 
 
