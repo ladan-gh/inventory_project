@@ -23,3 +23,27 @@ Most of the parties to the company's contracts are institutions and sales agents
 
 ### Procedures
 After registering in the system, each customer must fill out a request or purchase order form in order to purchase from the company. The customer receives these forms from the company's bookstore and delivers them to the bookstore after completion to take the necessary measures. In this form, the customer mentions the exact specifications of all the goods he needs along with the amount of each of them.
+
+----------------------------
+
+## Scenario 3(Invoice Preparation)
+
+### Users and those involved in this scenario:
+- Sales unit accounting(User)
+- Customer(User)
+- Sales(Colleague)
+
+### Procedures
+The invoice is prepared by the accounting department of the sales unit, so that after registering the customer's order, the accounting department receives the exact price of all goods in the order, along with additions and deductions, as well as the percentage of prizes from the sales unit. Calculates and issues an invoice for the customer.
+
+----------------------------
+
+
+
+
+
+
+
+
+
+
