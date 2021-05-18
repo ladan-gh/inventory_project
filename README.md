@@ -45,7 +45,8 @@ Non-functional requirements:
 
 
 ### Project Management
-
+- [Project management phases]()
+- [Project scheduling documents]()
 
 ### Developers
 **Project code : G21**
