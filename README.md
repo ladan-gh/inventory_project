@@ -23,14 +23,13 @@ Functional requirements:
 Non-functional requirements:
 - The system must be able to operate under the network.
 
-### Project documents:
+# Project documents:
 -------------------------------
 
 ### Needs assessment and project scenario
 
 - [Project scenarios](/Documentation/Scenario.md)
 - [Project needs assessment](/Documentation/Requirements.md)
-
 
 
 ### Analysis and design of the project
@@ -42,13 +41,12 @@ Non-functional requirements:
 - [Requirements]()
 
 
-
 ### Project Management
 - [Project management phases]()
 - [Project scheduling documents]()
 
 ### Developers
-**Project code : G21**
+**Project code : ##G21**
 
 Name | ID
 ------------ | ------------- 
