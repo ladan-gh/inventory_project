@@ -50,5 +50,5 @@ Non-functional requirements:
 
 Name | ID | Role
 ------------ | ------------- | ------------- 
-\\*Ladan Ghasemi* | [@𝐥𝐚𝐝𝐚𝐧_𝐠𝐡](https://github.com/ladan-gh) | Front End Developer
-\\*Asma Nezhadmohammadi* | [@𝐚𝐬𝐦𝐚_𝐦𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢](https://github.com/asma-mohammadi) | Back End Developer
+*Ladan Ghasemi* | [@𝐥𝐚𝐝𝐚𝐧_𝐠𝐡](https://github.com/ladan-gh) | Front End Developer
+*Asma Nezhadmohammadi* | [@𝐚𝐬𝐦𝐚_𝐦𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢](https://github.com/asma-mohammadi) | Back End Developer
