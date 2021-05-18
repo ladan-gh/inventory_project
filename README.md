@@ -32,12 +32,12 @@ Non-functional requirements:
 
 
 ### Analysis and design of the project
-*- [Use case diagram]()
-*- [Activity diagram]()
-- [Sequence diagram]()
-- [Class diagram]()
-- [Database diagram]()
-- [Requirements]()
+* [Use case diagram]()
+* [Activity diagram]()
+* [Sequence diagram]()
+* [Class diagram]()
+* [Database diagram]()
+* [Requirements]()
 
 
 ### Project Management:
