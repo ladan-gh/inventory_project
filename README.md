@@ -23,7 +23,7 @@ Functional requirements:
 Non-functional requirements:
 - The system must be able to operate under the network.
 
-## Project documents:
+## Project documents :
 
 ### Needs assessment and project scenario
 
