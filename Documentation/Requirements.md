@@ -2,9 +2,13 @@
 
 ### Functional requirements:
 
-- Ability to Contract Registration
-- Ability to Invoice Preparation
-- Ability to Registration New Goods
+- Contract Registration
+- Invoice Preparation
+- Registration New Goods
 
 ### Non-Functional requirements:
 
+- The password to the system can include 8 numbers and letters
+- changing connection string on run time
+- Backing up system information
+- 
