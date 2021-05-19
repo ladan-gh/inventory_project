@@ -21,7 +21,7 @@ Functional requirements:
 - register a contract with a customer
 
 Non-functional requirements:
-- The system must be able to operate under the network.
+
 
 ## Project documents :
 
