@@ -32,18 +32,18 @@ Non-functional requirements:
 
 
 ### Analysis and design of the project
-* [Use case diagram]()
-* [Activity diagram]()
-* [Sequence diagram]()
-* [Class diagram]()
-* [Database diagram]()
-* [Requirements]()
-* [Another analysis and design documents]()
+* [Use case diagram]()TODO
+* [Activity diagram]()TODO
+* [Sequence diagram]()TODO
+* [Class diagram]()TODO
+* [Database diagram]()TODO
+* [Requirements]()TODO
+* [Another analysis and design documents]()TODO
 
 
 ### Project Management:
-- [Project management phases]()
-- [Project scheduling documents]()
+- [Project management phases]()TODO
+- [Project scheduling documents]()TODO
 
 ### Developers:
 
