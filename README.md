@@ -16,9 +16,9 @@ The general process of work is that the goods are produced and transferred from 
 ### System requirements:
 
 Functional requirements:
-- Ability to register customer orders
-- Ability to issue an exit form
-- Ability to register a contract with a customer
+- register customer orders
+- issue an exit form
+- register a contract with a customer
 
 Non-functional requirements:
 - The system must be able to operate under the network.
