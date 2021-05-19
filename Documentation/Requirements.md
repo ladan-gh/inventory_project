@@ -10,5 +10,6 @@
 
 - The password to the system can include 8 numbers and letters
 - changing connection string on run time
-- Backing up system information
-- 
+- Provide full backup of system information
+- Record all system events
+- Security and access limits
