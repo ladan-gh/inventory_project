@@ -21,7 +21,8 @@ Functional requirements:
 - register a contract with a customer
 
 Non-functional requirements:
-
+- The password to the system can include 8 numbers and letters
+- 
 
 ## Project documents :
 
