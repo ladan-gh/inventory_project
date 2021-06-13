@@ -45,7 +45,7 @@ Non-functional requirements:
 
 ### Project Management:
 - [Project management phases]()TODO
-- [Project scheduling documents]()TODO
+- [Project scheduling documents](/Documentation/ProjectScheduling)
 
 ### Developers:
 
