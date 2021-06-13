@@ -10,6 +10,7 @@ StoryID | StoryName | Significance | StoryPoint |  How does this story work | Im
 8 | usecase diagram | 20 | 7 | add usecase diagram | .
 9 | activity diagram | 20 | 7 | add activity diagram | .
 10 | sequence diagram | 20 | 7 | add sequence diagram | .
+11 | class diagram | 20 | 7 | add class diagram | .
 
 
 
