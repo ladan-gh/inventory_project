@@ -6,11 +6,9 @@ StoryID | StoryName | Significance | StoryPoint |  How does this story work | Im
 4 | README | 20 | 7 | design README.md file | .
 5 | requirement | 20 | 7 | add requirement.md file | .
 6 | customer's database | 20 | 4 | add customer's database | .
-7 | Warehouse manager's database | 20 | 4 |  add Warehouse manager's database | . 
-8 | usecase diagram | 20 | 7 | add usecase diagram | .
-9 | activity diagram | 20 | 7 | add activity diagram | .
-10 | sequence diagram | 20 | 7 | add sequence diagram | .
-11 | class diagram | 20 | 7 | add class diagram | .
-
-
-
+7 | Warehouse manager's database | 20 | 4 |  add Warehouse manager's database | .
+8 | Warehouse's database | 20 | 7 | add Warehouse's database | .
+9 | usecase diagram | 20 | 7 | add usecase diagram | .
+10 | activity diagram | 20 | 7 | add activity diagram | .
+11 | sequence diagram | 20 | 7 | add sequence diagram | .
+12 | class diagram | 20 | 7 | add class diagram | .
