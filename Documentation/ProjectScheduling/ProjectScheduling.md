@@ -11,6 +11,6 @@ StoryID | StoryName | Significance | StoryPoint |  How does this story work | Im
 7 | Warehouse manager's database | 20 | 4 |  add Warehouse manager's database | .
 8 | Warehouse's database | 20 | 7 | add Warehouse's database | .
 9 | usecase diagram | 20 | 7 | add usecase diagram | .
-10 | activity diagram | 20 | 7 | add activity diagram | .
-11 | sequence diagram | 20 | 7 | add sequence diagram | .
-12 | class diagram | 20 | 7 | add class diagram | .
+10 | activity diagram | 18 | 7 | add activity diagram | .
+11 | sequence diagram | 18 | 7 | add sequence diagram | .
+12 | class diagram | 18 | 7 | add class diagram | .
