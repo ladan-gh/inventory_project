@@ -7,3 +7,9 @@ StoryID | StoryName | Significance | StoryPoint |  How does this story work | Im
 5 | requirement | 20 | 7 | add requirement.md file | .
 6 | customer's database | 20 | 4 | add customer's database | .
 7 | Warehouse manager's database | 20 | 4 |  add Warehouse manager's database | . 
+8 | usecase diagram | 20 | 7 | add usecase diagram | .
+8 | activity diagram | 20 | 7 | add activity diagram | .
+8 | sequence diagram | 20 | 7 | add sequence diagram | .
+
+
+
