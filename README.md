@@ -37,7 +37,7 @@ Non-functional requirements:
 * [Use case diagram](/Documentation/UseCase_diagram)
 * [Activity diagram](/Documentation/activity_diagram)
 * [Sequence diagram]()TODO
-* [Class diagram](/Documentation/class_diagram)
+* [Class diagram](/Documentation/Class_diagram)
 * [Database diagram]()TODO
 * [Requirements]()TODO
 * [Another analysis and design documents]()TODO
