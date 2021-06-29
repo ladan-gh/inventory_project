@@ -40,7 +40,6 @@ Non-functional requirements:
 * [Activity diagram](/Documentation/activity_diagram)
 * [Sequence diagram]()TODO
 * [Class diagram](/Documentation/Class_diagram)
-* [Database diagram]()TODO
 
 
 ### Project Management:
