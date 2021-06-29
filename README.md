@@ -15,13 +15,13 @@ The general process of work is that the goods are produced and transferred from 
 
 ### System requirements:
 
--*Functional requirements:
+-**Functional requirements**:
 
    - register customer orders
    - issue an exit form
    - register a contract with a customer
 
--*Non-functional requirements:
+-**Non-functional requirements**:
 
    - The password to the system can include 8 numbers and letters
    - Provide full backup of system information
