@@ -15,7 +15,7 @@ The general process of work is that the goods are produced and transferred from 
 
 ### System requirements:
 
-# - **Functional requirements**:
+- **Functional requirements**:
 
    - register customer orders
    - issue an exit form
