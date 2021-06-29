@@ -22,9 +22,10 @@ Functional requirements:
    - register a contract with a customer
 
 Non-functional requirements:
-    - The password to the system can include 8 numbers and letters
-    - Provide full backup of system information
-    - Record all system events
+
+   - The password to the system can include 8 numbers and letters
+   - Provide full backup of system information
+   - Record all system events
 
 ## Project documents :
 
