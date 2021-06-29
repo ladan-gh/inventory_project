@@ -39,8 +39,6 @@ Non-functional requirements:
 * [Sequence diagram]()TODO
 * [Class diagram](/Documentation/Class_diagram)
 * [Database diagram]()TODO
-* [Requirements]()TODO
-* [Another analysis and design documents]()TODO
 
 
 ### Project Management:
