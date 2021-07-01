@@ -1,2 +1,2 @@
-phase number | phase name | levels 
------------------------------------
+phase number | phase name | levels
+------------ | ------------- | ------------- 
