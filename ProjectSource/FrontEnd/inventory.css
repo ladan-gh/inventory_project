@@ -1,0 +1,101 @@
+body {
+    margin =0px;
+}
+
+div.i1 {
+    position: relative;
+    right: 100px;
+    bottom: 630px;
+    width: 130px;
+    height: 70px;
+    background: #456321;
+    color: fff;
+    border-radius: 4px;
+    box-shadow: # 2f3c4a 2px 0px 2px 2px (rgb 0 15 2 3);
+    margin: 300px;
+}
+
+div.i2 {
+    margin: 20px;
+    padding-top: 26px;
+    padding-right: 20px;
+    font-family: 'MyWebFont', Fallback, sans-serif;
+}
+
+
+div.i3 {
+    position: relative;
+    right: 500px;
+    bottom: 1200px;
+    width: 130px;
+    height: 70px;
+    background: #456321;
+    color: fff;
+    border-radius: 4px;
+    box-shadow: # 2f3c4a 2px 0px 2px 2px (rgb 0 15 2 3);
+    margin: 500px;
+}
+
+
+div.i4 {
+    margin: 10px;
+    padding-top: 26px;
+    padding-right: 5px;
+    font-family: 'MyWebFont', Fallback, sans-serif;
+}
+
+
+div.i5 {
+    background-color: #f2f2f2;
+    margin-right: -8px;
+    margin-left: -8px;
+    top: 1000px;
+    left: 0px;
+}
+
+div.i6 {
+    float: right;
+    padding: 15px 15px 100px;
+    margin-top: 100px;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.6);
+    background-position: top;
+    transform: translate(500px,40px);
+}
+
+
+div.i7 {
+    opacity: 0.5;
+    font-family: 'MyWebFont', Fallback, sans-serif;
+    /*background-image:url('14-11-26-113335237EC86600000578-0-image-47_1416933026421.jpg'); */
+    /* background-repeat:no-repeat;*/
+}
+
+div.i8 {
+    position: relative;
+    bottom: 1600px;
+    right: 200px;
+}
+
+
+div.i9 {
+    width: 1510px;
+    height: 3px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+div.i10 {
+    position: absolute;
+    left: 200px;
+}
+
+
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('webfont.eot'); /* IE9 Compat Modes */
+    src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+    url('webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
