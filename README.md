@@ -44,7 +44,7 @@ The general process of work is that the goods are produced and transferred from 
 
 ### Project Management:
 - [Project management phases](/Documentation/Projectmanagement)
-- [Project scheduling documents](/Documentation/ProjectScheduling)
+- [Project scheduling documents](/Documentation/ProjectScheduling.md)
 
 ### Developers:
 
