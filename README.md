@@ -38,7 +38,7 @@ The general process of work is that the goods are produced and transferred from 
 ### Analysis and design of the project:
 * [Use case diagram](Documentation/image/UseCase_diagram)
 * [Activity diagram](/Documentation/image/Activity_diagram)
-* [Sequence diagram]()TODO
+* [Sequence diagram](/Documentation/image/Sequence_diagram)
 * [Class diagram](/Documentation/image/Class_diagram)
 
 
