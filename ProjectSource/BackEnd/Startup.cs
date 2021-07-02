@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -15,7 +16,6 @@ namespace LadanANDAsma
     {
         public Startup(IConfiguration configuration)
         {
-            services.AddRazorPages();
             Configuration = configuration;
             var builder = new ConfigurationBuilder()
             .AddJsonFile("appsettings.json");
