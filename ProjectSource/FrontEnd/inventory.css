@@ -1,5 +1,5 @@
 body {
-    margin =0px;
+    margin = 0px;
 }
 
 div.i1 {
@@ -67,8 +67,6 @@ div.i6 {
 div.i7 {
     opacity: 0.5;
     font-family: 'MyWebFont', Fallback, sans-serif;
-    /*background-image:url('14-11-26-113335237EC86600000578-0-image-47_1416933026421.jpg'); */
-    /* background-repeat:no-repeat;*/
 }
 
 div.i8 {
@@ -92,10 +90,10 @@ div.i10 {
 
 @font-face {
     font-family: 'MyWebFont';
-    src: url('webfont.eot'); /* IE9 Compat Modes */
-    src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
-    url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
-    url('webfont.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+    src: url('webfont.eot');
+    src: url('webfont.eot?#iefix') format('embedded-opentype'), 
+    url('webfont.woff2') format('woff2'), 
+    url('webfont.woff') format('woff'), 
+    url('webfont.ttf') format('truetype'),
+    url('webfont.svg#svgFontName') format('svg');
 }
